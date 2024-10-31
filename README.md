@@ -1,5 +1,4 @@
-![Proje Önizle]([https://github.com/kullaniciadi/repoadi/raw/main/gorsel.png](https://github.com/msalihllc/ReactLoginPage/blob/main/screenshot.png
-))
+![Proje Önizle](https://github.com/msalihllc/ReactLoginPage/blob/main/screenshot.png)
 
 
 # Getting Started with Create React App
